@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...everything
 ---
 ### Contact me
-[linkedin] | [instagram]
+[<img src="./icons/linkedin.svg" width="32" height="32" align="left" alt="Linkedin"/>][linkedin] |[<img src="./icons/instagram.svg" width="32" height="32" align="left" alt="Instagram"/>][instagram]
 ---
 
 ---
