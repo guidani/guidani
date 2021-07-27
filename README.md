@@ -5,8 +5,7 @@
 
 <!-- - 🤝 I’m looking for help with **django.** -->
 
-- 📫 How to reach me **gui.dani13@gmail.com**
-- <a href="https://www.linkedin.com/in/guilherme-daniel/">Linkedin</a>
+- 📫 How to reach me **gui.dani13@gmail.com** | <a href="https://www.linkedin.com/in/guilherme-daniel/">Linkedin</a>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
