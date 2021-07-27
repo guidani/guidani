@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
-<h3 align="center">A Student of Analisys and Systems Development from Brazil.</h3>
-
 <!-- - 🔭 I’m currently working on **my health.** -->
 
 - 🌱 I’m currently learning **JavaScript**
@@ -8,6 +6,7 @@
 <!-- - 🤝 I’m looking for help with **django.** -->
 
 - 📫 How to reach me **gui.dani13@gmail.com**
+- <a href="https://www.linkedin.com/in/guilherme-daniel/">Linkedin</a>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
