@@ -5,7 +5,7 @@
 
 <!-- - 🤝 I’m looking for help with **django.** -->
 
-- 📫 How to reach me **gui.dani13@gmail.com** | <strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">Linkedin</a></strong>
+- 📫 How to reach me: <strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">Linkedin</a></strong>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
