@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
 <!-- - 🔭 I’m currently working on **my health.** -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**
 
 <!-- - 🤝 I’m looking for help with **django.** -->
 
