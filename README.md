@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
-<!-- - 🔭 I’m currently working on **my health.** -->
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**
-
-<!-- - 🤝 I’m looking for help with **django.** -->
+- 🌱 I’m currently learning: **TypeScript**.
+- 🎯 Skills: **HTML**, **CSS**, **JavaScript**, **Git**, **SASS**.
+- ✨ Soft Skills: **Emphaty**, **Communication**, **Patience**, **Curiosity**.
 
 - 📫 How to reach me: <strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">Linkedin</a></strong>
 
