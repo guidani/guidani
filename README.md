@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
 
-- 🌱 I’m currently learning: **TypeScript**.
+- 🌱 I’m currently learning: **PHP**.
 - 🎯 Skills: **HTML**, **CSS**, **JavaScript**, **Git**, **SASS**.
 - ✨ Soft Skills: **Emphaty**, **Communication**, **Patience**, **Curiosity**.
 
