@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
 
 - 🌱 I’m currently learning: **REACJS**.
-- 🎯 Skills: **HTML**, **CSS**, **JavaScript**, **Git**, **SASS**, **REST**, **NODEJS**.
+- 🎯 Skills: **HTML**, **CSS**, **JavaScript**,**TypeScript**, **NODEJS**, **Git**, **SASS**, **REST**.
 - ✨ Soft Skills: **Emphaty**, **Communication**, **Patience**, **Curiosity**.
 
 - 📫 How to reach me: <strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">Linkedin</a></strong>
