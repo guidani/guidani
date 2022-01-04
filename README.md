@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
 
-- 🌱 I’m currently learning: **REACJS**.
+- 🌱 I’m currently learning: **REACTJS**.
 - 🎯 Skills: **HTML**, **CSS**, **JavaScript**,**TypeScript**, **NODEJS**, **Git**, **SASS**, **REST**.
 - ✨ Soft Skills: **Emphaty**, **Communication**, **Patience**, **Curiosity**.
 
