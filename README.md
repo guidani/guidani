@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Guilherme Daniel</h1>
+<!-- <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1> -->
 
-<!-- - 🎯 Skills: **HTML**, **CSS**, **JavaScript**,**TypeScript**, **NODEJS**, **Git**, **SASS**, **REST**, **REACTJS**, **WEBPACK** -->
+<p align="center">
+ <img src="https://raw.githubusercontent.com/guidani/guidani/main/public/images/github-header-image.png"/>
+ </p>
+
 ## 🎯 Skills:
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,8 +17,6 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
- 
- 
 ## ✨ Soft Skills: 
 
 **Emphaty**, **Communication**, **Patience**, **Curiosity**.
