@@ -3,6 +3,8 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/guidani/guidani/main/public/images/github-header-image.png"/>
  </p>
+ 
+<!--  adicionar uma descrição sobre mim -->
 
 ## 🎯 Skills:
 
@@ -23,7 +25,7 @@
 
 ## 📫 How to reach me: 
 
-<strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></strong>
+<strong><a href="https://www.linkedin.com/in/guilherme-daniel/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a></strong> <strong><a href="mailto:gui.dani13@gmail.com" target="_blank">![image](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=gmail&logoColor=red)</a></strong>
 
 ## About this profile
 
