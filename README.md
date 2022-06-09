@@ -38,5 +38,6 @@ Construindo meu caminho no mundo do desenvolvimento web
 
 ## About this profile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidani&layout=compact&theme=codeSTACKr)](https://github.com/guidani/github-readme-stats)
 ![guidani GitHub stats](https://github-readme-stats.vercel.app/api?username=guidani&theme=codeSTACKr&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guidani&theme=dark&date_format=j%2Fn%5B%2FY%5D&locale=pt-br&ring=D8582C)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidani&layout=compact&theme=codeSTACKr)](https://github.com/guidani/github-readme-stats)
