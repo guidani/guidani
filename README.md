@@ -21,6 +21,7 @@ Construindo meu caminho no mundo do desenvolvimento web
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/graphql-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=purple)
 
 ### 🛠 Ferramentas que eu costumo usar:
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
