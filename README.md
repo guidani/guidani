@@ -6,7 +6,6 @@
  
 <!--  adicionar uma descrição sobre mim -->
 <p align="center">
-Construindo meu caminho no mundo do desenvolvimento web
 </p>
 
 
