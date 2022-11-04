@@ -1,14 +1,26 @@
 <!-- <h1 align="center">Hi 👋, I'm Guilherme Daniel</h1> -->
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/guidani/guidani/main/public/images/github-header-image.png"/>
+<!--  <img src="https://raw.githubusercontent.com/guidani/guidani/main/public/images/github-header-image.png"/> -->
+ <pre>
+  <code>
+   fetch(knowledge)
+    .then(() => {
+     make it work.
+     }).then(()=>{
+      do it better.
+      }).catch((error)=>{
+       sleep.
+       }).finally(()=>{
+        repeat.
+        })
+  </code>
+ </pre>
  </p>
  
 <!--  adicionar uma descrição sobre mim -->
 <p align="center">
 </p>
-
-
 
 ## 🎯 Skills:
 ### Gosto de construir coisas usando:
