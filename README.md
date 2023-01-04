@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-Estudo programação 2018, principalmente para a área web. Atualmente tenho desenvolvido aplicação com ReactJS. Continuo me aprimorando continuamente, gosto de trabalhar com com outras pessoas e de ajudar os outros.
+Estudo programação voltado para a área web. Atualmente tenho desenvolvido aplicação com ReactJS e React Native. Continuo me aprimorando continuamente, gosto de trabalhar com com outras pessoas e de ajudar os outros.
 
 * 🌍  I'm based in Timon, MA
 * ✉️  You can contact me at [gui.dani13@gmail.com](mailto:gui.dani13@gmail.com)
@@ -38,9 +38,6 @@ Estudo programação 2018, principalmente para a área web. Atualmente tenho des
 
 <p align="left"> <a href="https://www.github.com/guidani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilherme-daniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/guidani"><img src="https://github-readme-stats.vercel.app/api?username=guidani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="guidani's GitHub stats" /></a>
 
