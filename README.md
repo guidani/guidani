@@ -16,7 +16,7 @@ My Skills
     <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript"/>
 
   Front-end:
-    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-1098d1?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Vue.JS-236548?style=for-the-badge&logo=vuedotjs"/> 
+    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-1098d1?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss"/> <img src="https://img.shields.io/badge/chakraui-e2e8f0?style=for-the-badge&logo=chakraui"/>
   
   Back-end:
     <img src="https://img.shields.io/badge/Node.JS-113123?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/-ExpressJS-3fb27f?style=for-the-badge&logo=express"/>
