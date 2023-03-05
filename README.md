@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 About me
 --------------------
-I'm a full-stack developer.
+I'm a full-stack web developer.
 
-I'm currently developing applications with ReactJS and Typescript.
+I'm currently developing applications with ReactJS and Next.JS.
 
 
 My Skills
