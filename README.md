@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-Analista de Sistemas com foco no desenvolvimento de sistemas para Web. Atuei como voluntário no Instituto Federal do Piauí na criação de sistemas Web com React, e na criação de aplicativo para android utilizando React e React Native. Atuei em uma consultoria desenvolvendo sistemas RPA, criando e melhorando o desempenho de sistemas web utilizando as plataformas .NET e ASP.NET.
+Analista de Sistemas com foco no desenvolvimento de sistemas para Web. Já atuei na criação de sistemas Web com React, React Native, desenvolvimento de sistemas RPA, criando e melhorando o desempenho de sistemas utilizando as plataformas .NET e ASP.NET.
 
 ---
 
-Systems Analyst with a focus on web systems development. I worked as a volunteer at the Federal Institute of Piauí creating web systems with React, and creating android applications using React and React Native. I worked in a consultancy developing RPA systems, creating and improving the performance of web systems using the .NET and ASP.NET platforms.
+Systems Analyst with a focus on web systems development. I've worked on creating web systems with React, React Native, developing RPA systems, creating and improving the performance of systems using the .NET and ASP.NET platforms.
 
 ---
 
