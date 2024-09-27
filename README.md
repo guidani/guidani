@@ -9,10 +9,14 @@ Systems Analyst with a focus on web systems development. I've worked on creating
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwindcss,bootstrap,docker,postgres)](https://skillicons.dev)
+
+---
+
 Contatos:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) guilherme.danielsd@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) guilherme.danielsd@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/guilherme-daniel
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/guilherme-daniel
 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) https://medium.com/@gui.dani13
+[![My Skills](https://skillicons.dev/icons?i=medium)](https://skillicons.dev) https://medium.com/@gui.dani13
