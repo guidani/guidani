@@ -13,10 +13,11 @@ Systems Analyst with a focus on web systems development. I've worked on creating
 
 ---
 
-Contatos:
+Contato:
+guilherme.danielsd@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) guilherme.danielsd@gmail.com
+Linkedin:
+https://www.linkedin.com/in/guilherme-daniel
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/guilherme-daniel
-
-[![My Skills](https://skillicons.dev/icons?i=medium)](https://skillicons.dev) https://medium.com/@gui.dani13
+Meu blog sobre programação:
+https://medium.com/@gui.dani13
